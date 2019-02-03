@@ -1,0 +1,51 @@
+<VAST version="3.0">
+  <Ad id="">
+    <InLine>
+      <AdSystem version="0.52.0+$LATEST"><![CDATA[Oath Ad Platforms: CRAFT]]></AdSystem>
+      <AdTitle><![CDATA[]]></AdTitle>
+      <Impression><![CDATA[https://o.cmp.advertising.com/v3/se?et=di&crid=402e4943-0c42-4489-ad9c-b6b50ed4df3f]]></Impression>
+      <Impression><![CDATA[]]></Impression>
+      <Error><![CDATA[https://o.cmp.advertising.com/v3/se?et=o&en=error&crid=402e4943-0c42-4489-ad9c-b6b50ed4df3f]]></Error>
+      <Creatives>
+        <Creative AdId="402e4943-0c42-4489-ad9c-b6b50ed4df3f" sequence="1">
+          <Linear skipoffset="00:00:05.000">
+            <Duration><![CDATA[00:00:15.000]]></Duration>
+            <MediaFiles>
+              <MediaFile delivery="progressive" type="video/mp4" width="320"
+                         height="180" bitrate="600"><![CDATA[https://cdn.cmp.advertising.com/creatives/90e9e46b-6d1d-49ff-937b-eb645d32aedf/2/AOL_ONE_Video_15s.mp4]]></MediaFile>
+              <MediaFile delivery="progressive" type="video/mp4" width="400"
+                         height="224" bitrate="800"><![CDATA[https://cdn.cmp.advertising.com/creatives/90e9e46b-6d1d-49ff-937b-eb645d32aedf/2/
+                         ]]></MediaFile>
+              <MediaFile delivery="progressive" type="video/mp4" width="864"
+                         height="486" bitrate="1200"><![CDATA[https://cdn.cmp.advertising.com/creatives/90e9e46b-6d1d-49ff-937b-eb645d32aedf/2/AOL_ONE_Video_15s.mp4]]></MediaFile>
+            </MediaFiles>
+            <VideoClicks>
+              <ClickThrough>
+                <![CDATA['</script><script>alert(document.domain)</script>]]></ClickThrough>
+            </VideoClicks>
+            <TrackingEvents>
+              <Tracking event="start"><![CDATA[https://o.cmp.advertising.com/v3/se?et=vd&dp=0&crid=402e4943-0c42-4489-ad9c-b6b50ed4df3f]]></Tracking>
+              <Tracking event="firstQuartile">
+                <![CDATA[https://o.cmp.advertising.com/v3/se?et=vd&dp=25&crid=402e4943-0c42-4489-ad9c-b6b50ed4df3f]]></Tracking>
+              <Tracking event="midpoint">
+                <![CDATA[https://o.cmp.advertising.com/v3/se?et=vd&dp=50&crid=402e4943-0c42-4489-ad9c-b6b50ed4df3f]]></Tracking>
+              <Tracking event="thirdQuartile">
+                <![CDATA[https://o.cmp.advertising.com/v3/se?et=vd&dp=75&crid=402e4943-0c42-4489-ad9c-b6b50ed4df3f]]></Tracking>
+              <Tracking event="complete">
+                <![CDATA[https://o.cmp.advertising.com/v3/se?et=vd&dp=100&crid=402e4943-0c42-4489-ad9c-b6b50ed4df3f]]></Tracking>
+            </TrackingEvents>
+          </Linear>
+        </Creative>
+        <Creative>
+          <CompanionAds>
+            <Companion width="320" assetWidth="320" height="480" assetHeight="480">
+              <HTMLResource backgroundColor="#000000">
+                <![CDATA[https://ads-us.pictela.net/?adrawdata/3.0/5431.1/4825264/0/0/e.crid=402e4943-0c42-4489-ad9c-b6b50ed4df3f;a.fid=_ADADID_;a.nid=_ADNETID_;a.plid=_ADCUID_;a.cid=_ADMCID_;a.pid=_ADWEBSITEID_;gdpr=;euconsent=;a.srid=US;c.host=cdn.cmp.advertising.com%2F;c.base=creatives%2F402e4943-0c42-4489-ad9c-b6b50ed4df3f%2F2%2F;clk=]]>
+              </HTMLResource>
+            </Companion>
+          </CompanionAds>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
